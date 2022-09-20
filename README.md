@@ -9,5 +9,5 @@ A cryptocurrency listing FLUTTER App
 4. Sqflite (Offline Database Management)
 5. GetX (State Management)
 6. Dark/Light Theme
-7. Neat & Clean File Structure (Kind of MVC Pattern)
+7. Neat & Clean File Structure (MVC Pattern)
 
