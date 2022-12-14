@@ -5,7 +5,7 @@ A cryptocurrency listing FLUTTER App
 ## Features
 1. API call
 2. Data managed with Model Class
-3. Internet Connectivity Listner
+3. Internet Connectivity Listener
 4. Sqflite (Offline Database Management)
 5. GetX (State Management)
 6. Dark/Light Theme
