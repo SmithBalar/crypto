@@ -1,6 +1,6 @@
-const String apiKey = '26002f62ebfaf4acbefaf087113bf6484da76a15';
+const String apiKey = '';
 
-const String baseUrl = 'https://api.nomics.com/v1/currencies/ticker?key=$apiKey&interval=30d,365d';
+const String baseUrl = 'https://api.simpleswap.io/get_all_currencies?api_key=$apiKey';
 
 String getFileExtension(String url) {
   String fileName = url.split('/').last;

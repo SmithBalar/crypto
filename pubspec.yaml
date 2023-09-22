@@ -35,13 +35,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   http:
-  flutter_svg:
+  flutter_svg: ^1.1.6
   cached_network_image:
   path_provider:
   path:
   sqflite:
   connectivity_plus:
-  flutter_advanced_networkimage_2:
   get:
   get_storage:
   animated_toggle_switch:
